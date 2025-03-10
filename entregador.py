@@ -13,4 +13,4 @@ def mostra_distancia(ponto1,ponto2,grafo):
 
 mostra_distancia('D','B',grafo)
 
-//terminar: calcular menor rota
+#terminar: calcular menor rota
